@@ -1,7 +1,7 @@
 # inline-duct-fan-92mm
 A printable inline duct fan with an integrated wall mount. Fits a 92mm fan and 100mm duct.
 
-![Hero photo](images/hero.jpg)
+![Hero photo](images/hero.png)
 
 | | |
 |---|---|
