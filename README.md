@@ -18,15 +18,10 @@ I upgraded to a printer capable of engineering materials (ASA, ABS, and nylon), 
 
 ## Key Design Features
 
-TODO
-
-<!--
-![Annotated design photo](images/annotated-features.jpg)
-
-1. **[Feature name]:** [what it does and why you designed it this way]
-2. **[Feature name]:** [design decision and the reasoning]
-3. **[Feature name]:** [tolerance, fit, or constraint it addresses]
--->
+1. **Internal Fan Enclosure:** Enclose Fan completely, to allow for least amount of air leakage as possible.
+2. **Inline Fan Installation:** Utilize current 100mm venting duct assemblies.
+3. **Fan Depth Agnostic:** Allows for different fan depths by allowing for sliding friction fit adjustment. This also allows for future addition of TPU printed gaskets to improve air seal around fan.
+4. **Ease of installation:** Built in design for 100mm bodies to draft by 1.5 degrees allow for easy 100mm duct fitment, and easy fitment onto existing hardbody 100mm duct (for appropriate printed bodies)
 
 ## Print Settings
 
@@ -52,6 +47,7 @@ TODO
 | 3D printed bodies | 2 | |
 | Heat-Press Inserts | TBD | Size TBD |
 | Bolts and Washers | TBD | Size TBD |
+| Fab | TBD | 92mm |
 
 ## Assembly
 
