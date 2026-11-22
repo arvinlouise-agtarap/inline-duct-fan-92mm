@@ -14,7 +14,7 @@ A printable inline duct fan with an integrated wall mount. Fits a 92mm fan and 1
 
 ## Overview
 
-I upgraded to a printer capable of engineering materials (ASA, ABS, and nylon), on the condition that it be vented out of the house. These materials release VOCs during printing, and several people in the household are sensitive to the odor, so exhaust was a requirement rather than an option. This design is an inline duct fan mount that actively pulls contaminated air out of the enclosure and through the ducting, with the goal of keeping the workshop odor-free after prints.
+I upgraded to a printer capable of engineering materials (ASA, ABS, and nylon), on the condition that it be vented out of the house. These materials release [VOC](https://pubmed.ncbi.nlm.nih.gov/40341722/)s during printing, and several people in the household are sensitive to the odor, so exhaust was a requirement rather than an option. This design is an inline duct fan mount that actively pulls contaminated air out of the enclosure and through the ducting, with the goal of keeping the workshop odor-free after prints.
 
 ## Key Design Features
 
