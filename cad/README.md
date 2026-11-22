@@ -15,14 +15,12 @@ Native and neutral-format CAD source files for inline-duct-fan-92mm/(../README.m
 | File | Format | Description | Version |
 |---|---|---|---|
 | [`Fan-Mount-Inser-Body.step`](./Fan-Mount-Inser-Body.step) | STEP | Neutral format, opens in any CAD software | v1.0 |
-| `[project-name]_v2.0.step` | STEP | Neutral format, opens in any CAD software | v2.0 |
-| `[part-name].step` | STEP | [Individual part, if exported separately] | v2.0 |
+| [`Wall-Mount-Enclosure-Body.step`](./cad/Wall-Mount-Enclosure-Body.step)| STEP | Neutral format, opens in any CAD software | v1.0 |
 
-<!-- TODO: remove any rows that don't apply -->
 
 ## Opening the Files
 
-- **Same software:** open the native file directly. All sketches, parameters, and the feature history are intact.
+- **OnShape CAD** [Project Link : View Only](https://cad.onshape.com/documents/b9e0e87d5984c5b129224080/w/06f51b4a7c559cc40fa8c72a/e/9bce01a428b44037feeb6a47?renderMode=0&uiState=6b0295cdfda77f119cad8a82)
 - **Different software:** import the `.step` file. This keeps the geometry but not the feature history, so edits are harder.
 - **Print-ready exports** (STL/3MF) are in [`/stl`](../stl/).
 
