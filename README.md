@@ -35,12 +35,15 @@ TODO
 | Printer | [BambuLabs X2D](https://bambulab.com/en-us/x2d/specs) |
 | Material | Planned: [PETG (BambuLabs PETG Basic, Black)](https://ca.store.bambulab.com/products/petg-basic?srsltid=AYCX9vJIllUZIcUNaHjtEjqU0uf3pZljnNwnhr9AaGkRu96E9yLFgfSL&id=703075596700733453) |
 | Nozzle | 0.4 mm |
-| Layer height | TBD |
-| Infill | TBD |
-| Walls / perimeters | TBD |
-| Supports | TBD |
-| Orientation | TBD |
-| Print time | TBD |
+| Layer height | 0.20mm |
+| Infill | 15% Gyroid |
+| Walls / perimeters | 4 |
+| Supports | Normal (Auto), Snug, 45° Threshoold Angle, On Build Plate only|
+| Orientation | Auto Orientation (BambuLabs Studio) |
+| Print time | 10h43m |
+| Material Cost | 85.73m / 257.76 g |
+| Material Cost (Support) | 11.71m / 35.20g |
+| Wastage | 13.67% |
 
 ## Bill of Materials
 
@@ -82,12 +85,11 @@ For more detail, see [Design Notes](docs/design-notes.md).
 ## Files
 TODO
 
-<!--
 - `cad/`: native CAD files (editable)
 - `stl/`: print-ready exports
 - `images/`: photos and renders
 - `docs/`: extended notes
--->
+
 
 ## License
 
