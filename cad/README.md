@@ -1,6 +1,6 @@
 # CAD Files
 
-Native and neutral-format CAD source files for inline-duct-fan-92mm/(../README.md).
+Native and neutral-format CAD source files for inline-duct-fan-92mm/(../README.md). Print-Ready files are in [`/stl`](../stl/).
 
 ## Software
 
