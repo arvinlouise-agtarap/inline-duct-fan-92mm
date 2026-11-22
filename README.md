@@ -46,7 +46,7 @@ TODO
 
 | Item | Qty | Notes |
 |---|---|---|
-| [3D printed bodies] | 2 | |
+| 3D printed bodies | 2 | |
 | Heat-Press Inserts | TBD | Size TBD |
 | Bolts and Washers | TBD | Size TBD |
 
