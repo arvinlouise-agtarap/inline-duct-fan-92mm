@@ -9,8 +9,8 @@ A printable inline duct fan with an integrated wall mount. Fits a 92mm fan and 1
 | **Current version** | v1.0 |
 | **Designed in** | [Onshape CAD](https://cad.onshape.com/) |
 | **Printer** | [BambuLabs X2D](https://bambulab.com/en-us/x2d/specs) |
-| **Material** | Planned: [PETG (BambuLabs PETG Basic, Black)](https://ca.store.bambulab.com/products/petg-basic?srsltid=AYCX9vJIllUZIcUNaHjtEjqU0uf3pZljnNwnhr9AaGkRu96E9yLFgfSL&id=703075596700733453) |
-| **Material - Upgrade** | Planned: [ASA (BambuLabs ASA, Black)](https://ca.store.bambulab.com/products/asa-filament?srsltid=AYCX9vIWgAQo21p7wsp688ybQI1Y6ie9Yu8FBUoQWvgQGcLdpOcmOGGg&id=44173925712112) |
+| **Material** | Designed for [PETG (BambuLabs PETG Basic, Black)](https://ca.store.bambulab.com/products/petg-basic?srsltid=AYCX9vJIllUZIcUNaHjtEjqU0uf3pZljnNwnhr9AaGkRu96E9yLFgfSL&id=703075596700733453) |
+| **Material - Upgrade** | Planned Upgrade Material:  [ASA (BambuLabs ASA, Black)](https://ca.store.bambulab.com/products/asa-filament?srsltid=AYCX9vIWgAQo21p7wsp688ybQI1Y6ie9Yu8FBUoQWvgQGcLdpOcmOGGg&id=44173925712112) |
 
 ## Overview
 
@@ -28,12 +28,12 @@ I upgraded to a printer capable of engineering materials (ASA, ABS, and nylon), 
 | Setting | Value |
 |---|---|
 | Printer | [BambuLabs X2D](https://bambulab.com/en-us/x2d/specs) |
-| Material | Planned: [PETG (BambuLabs PETG Basic, Black)](https://ca.store.bambulab.com/products/petg-basic?srsltid=AYCX9vJIllUZIcUNaHjtEjqU0uf3pZljnNwnhr9AaGkRu96E9yLFgfSL&id=703075596700733453) |
+| Material | Deesigned for: [PETG (BambuLabs PETG Basic, Black)](https://ca.store.bambulab.com/products/petg-basic?srsltid=AYCX9vJIllUZIcUNaHjtEjqU0uf3pZljnNwnhr9AaGkRu96E9yLFgfSL&id=703075596700733453) |
 | Nozzle | 0.4 mm |
 | Layer height | 0.20mm |
 | Infill | 15% Gyroid |
 | Walls / perimeters | 4 |
-| Supports | Normal (Auto), Snug, 45° Threshoold Angle, On Build Plate only|
+| Supports | Normal (Auto), Snug, 45° Threshold Angle, On Build Plate only|
 | Orientation | Auto Orientation (BambuLabs Studio) |
 | Print time | 10h43m |
 | Material Cost | 85.73m / 257.76 g |
@@ -47,7 +47,7 @@ I upgraded to a printer capable of engineering materials (ASA, ABS, and nylon), 
 | 3D printed bodies | 2 | |
 | Heat-Press Inserts | TBD | Size TBD |
 | Bolts and Washers | TBD | Size TBD |
-| Fab | TBD | 92mm |
+| Fan | TBD | 92mm |
 
 ## Assembly
 
@@ -76,10 +76,9 @@ For more detail, see [Design Notes](docs/design-notes.md).
 
 | Version | Date | Changes |
 |---|---|---|
-| v1.0 | [2026-11] | Initial release |
+| v1.0 | 2026-11 | Initial Design |
 
 ## Files
-TODO
 
 - `cad/`: native CAD files (editable)
 - `stl/`: print-ready exports
@@ -89,4 +88,4 @@ TODO
 
 ## License
 
-[CC BY 4.0 / MIT]. See [LICENSE](LICENSE).
+CC BY 4.0 / MIT. See [LICENSE](LICENSE).
