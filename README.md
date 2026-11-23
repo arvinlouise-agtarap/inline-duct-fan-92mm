@@ -45,9 +45,9 @@ I upgraded to a printer capable of engineering materials (ASA, ABS, and nylon), 
 | Item | Qty | Notes |
 |---|---|---|
 | 3D printed bodies | 2 | |
-| Heat-Press Inserts | TBD | Size TBD |
-| Bolts and Washers | TBD | Size TBD |
-| Fan | TBD | 92mm | <!-- Add the specific fan (model, thickness, voltage) and the duct size, since your fan-depth feature depends on them. -->
+| `M3×4×4` Heat-set Inserts | 2 | Note: _This is oversized as the wall it will be set into is 2.5mmm, the overhang, however, should not be a problem as it will sit entirely in the thickness adjustment slot._ |
+| `M3×??` Screw bolt | 2 | Note: _I need to figure out the appropriate length, but my initial guess is `M3×8`_ |
+| [92mm DC Brushless Fan Model AFB0912HH](https://www.digikey.ca/en/products/detail/delta-electronics/AFB0912HH/1014396?) | 1 | Noise: 38.0dB(A), Airflow 57.9 CFM (1.62m³/min) | 
 
 ## Assembly
 
