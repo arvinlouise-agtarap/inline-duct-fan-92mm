@@ -8,13 +8,13 @@ A printable inline duct fan with an integrated wall mount. Fits a 92mm fan and 1
 | **Status** | Prototype, Unprinted |
 | **Current version** | v1.0 |
 | **Designed in** | [Onshape CAD](https://cad.onshape.com/) |
-| **Printer** | [BambuLabs X2D](https://bambulab.com/en-us/x2d/specs) |
-| **Material** | Designed for [PETG (BambuLabs PETG Basic, Black)](https://ca.store.bambulab.com/products/petg-basic?srsltid=AYCX9vJIllUZIcUNaHjtEjqU0uf3pZljnNwnhr9AaGkRu96E9yLFgfSL&id=703075596700733453) |
-| **Material - Upgrade** | Planned Upgrade Material:  [ASA (BambuLabs ASA, Black)](https://ca.store.bambulab.com/products/asa-filament?srsltid=AYCX9vIWgAQo21p7wsp688ybQI1Y6ie9Yu8FBUoQWvgQGcLdpOcmOGGg&id=44173925712112) |
+| **Printer** | [Bambu Lab X2D](https://bambulab.com/en-us/x2d/specs) |
+| **Material (planned)** | Designed for [PETG (Bambu Lab PETG Basic, Black)](https://ca.store.bambulab.com/products/petg-basic?&id=703075596700733453) |
+| **Material (planned - High Temp)** | Planned Upgrade Material:  [ASA (Bambu Lab ASA, Black)](https://ca.store.bambulab.com/products/asa-filament?&id=44173925712112) |
 
 ## Overview
 
-I upgraded to a printer capable of engineering materials (ASA, ABS, and nylon), on the condition that it be vented out of the house. These materials release [VOC](https://pubmed.ncbi.nlm.nih.gov/40341722/)s during printing, and several people in the household are sensitive to the odor, so exhaust was a requirement rather than an option. This design is an inline duct fan mount that actively pulls contaminated air out of the enclosure and through the ducting, with the goal of keeping the workshop odor-free after prints.
+I upgraded to a printer capable of engineering materials (ASA, ABS, and nylon), on the condition that it be vented out of the house. These materials release [VOCs](https://pubmed.ncbi.nlm.nih.gov/40341722/) during printing, and several people in the household are sensitive to the odor, so exhaust was a requirement rather than an option. This design is an inline duct fan mount that actively pulls contaminated air out of the enclosure and through the ducting, with the goal of keeping the workshop odor-free after prints.
 
 ## Key Design Features
 
@@ -27,14 +27,14 @@ I upgraded to a printer capable of engineering materials (ASA, ABS, and nylon), 
 
 | Setting | Value |
 |---|---|
-| Printer | [BambuLabs X2D](https://bambulab.com/en-us/x2d/specs) |
-| Material | Deesigned for: [PETG (BambuLabs PETG Basic, Black)](https://ca.store.bambulab.com/products/petg-basic?srsltid=AYCX9vJIllUZIcUNaHjtEjqU0uf3pZljnNwnhr9AaGkRu96E9yLFgfSL&id=703075596700733453) |
-| Nozzle | 0.4 mm |
+| Printer | [Bambu Lab X2D](https://bambulab.com/en-us/x2d/specs) |
+| Material | Deesigned for: PETG |
+| Nozzle | 0.4mm |
 | Layer height | 0.20mm |
 | Infill | 15% Gyroid |
 | Walls / perimeters | 4 |
 | Supports | Normal (Auto), Snug, 45° Threshold Angle, On Build Plate only|
-| Orientation | Auto Orientation (BambuLabs Studio) |
+| Orientation | Auto Orientation (Bambu Lab Studio) | <!-- Change this, Add justification for why it is oriented how it is -->
 | Print time | 10h43m |
 | Material Cost | 85.73m / 257.76 g |
 | Material Cost (Support) | 11.71m / 35.20g |
@@ -47,7 +47,7 @@ I upgraded to a printer capable of engineering materials (ASA, ABS, and nylon), 
 | 3D printed bodies | 2 | |
 | Heat-Press Inserts | TBD | Size TBD |
 | Bolts and Washers | TBD | Size TBD |
-| Fan | TBD | 92mm |
+| Fan | TBD | 92mm | <!-- Add the specific fan (model, thickness, voltage) and the duct size, since your fan-depth feature depends on them. -->
 
 ## Assembly
 
