@@ -6,7 +6,7 @@ A printable inline duct fan with an integrated wall mount. Fits a 92mm fan and 1
 | | |
 |---|---|
 | **Status** | Prototype, Unprinted |
-| **Current version** | v1.0 |
+| **Current version** | v1.1 |
 | **Designed in** | [Onshape CAD](https://cad.onshape.com/) |
 | **Printer** | [Bambu Lab X2D](https://bambulab.com/en-us/x2d/specs) |
 | **Material (planned)** | Designed for [PETG (Bambu Lab PETG Basic, Black)](https://ca.store.bambulab.com/products/petg-basic?&id=703075596700733453) |
@@ -77,6 +77,7 @@ For more detail, see [Design Notes](docs/design-notes.md).
 | Version | Date | Changes |
 |---|---|---|
 | v1.0 | 2026-11 | Initial Design |
+| v1.1 | 2026-11 | Corrected dimensions for Wallmount Body |
 
 ## Files
 
