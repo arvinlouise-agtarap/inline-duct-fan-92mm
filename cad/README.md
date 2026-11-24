@@ -14,8 +14,8 @@ Native and neutral-format CAD source files for [inline-duct-fan-92mm/](../README
 
 | File | Format | Description | Version |
 |---|---|---|---|
-| [`Fan-Mount-Inser-Body.step`](./Fan-Mount-Inser-Body.step) | STEP | Neutral format, opens in any CAD software | v1.0 |
-| [`Wall-Mount-Enclosure-Body.step`](./cad/Wall-Mount-Enclosure-Body.step)| STEP | Neutral format, opens in any CAD software | v1.0 |
+| [`Fan-Mount-Inser-Body.step`](./Fan-Mount-Inser-Body-v1.1.step) | STEP | Neutral format, opens in any CAD software | v1.1 |
+| [`Wall-Mount-Enclosure-Body.step`](./cad/Wall-Mount-Enclosure-Body-v1.1.step)| STEP | Neutral format, opens in any CAD software | v1.1 |
 
 
 ## Opening the Files
